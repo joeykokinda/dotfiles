@@ -1,0 +1,36 @@
+# Secrets / keys
+**/id_rsa*
+**/id_ed25519*
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+**/authorized_keys
+**/known_hosts
+
+# SSH/GPG dirs
+home/.ssh/
+home/.gnupg/
+
+# Tokens / creds / session
+**/*token*
+**/*secret*
+**/*credentials*
+**/Cookies
+**/cookie*
+**/*session*
+**/*auth*
+
+# App caches / state
+**/.cache/
+**/Cache/
+**/cache/
+**/logs/
+**/*.log
+**/state/
+**/tmp/
+
+# Hyprland/runtime junk
+config/hypr/hyprlandd.conf
+config/hypr/*.lock
+

@@ -1,0 +1,7 @@
+[user]
+	name = joey
+	email = jkokinda9@gmail.com
+[init]
+	defaultBranch = master
+[core]
+	compression = 9
