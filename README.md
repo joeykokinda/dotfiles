@@ -6,5 +6,5 @@ Personal config history for CachyOS + Hyprland.
 ![Hyprland](screenshots/hyprland.png)
 
 Old Laptop Config - 
-![Hyprland](screenshots/hyprlandold.png)
+![Hyprland](screenshots/hyperlandold.png)
 
